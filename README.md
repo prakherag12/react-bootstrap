@@ -8,8 +8,9 @@
 [![Codecov][codecov-badge]][codecov]
 [![Discord][discord-badge]][discord]
 [![Netlify][netlify-badge]][netlify]
-
+---------------------------------
 ## Bootstrap compatibility
+-----------------------------
 
 React-Bootstrap is compatible with various versions of Bootstrap.  As such, you need to ensure you are using the correct combination of versions.  
 
@@ -42,7 +43,7 @@ Yarn is our package manager of choice here. Check out setup
 instructions [here](https://yarnpkg.com/en/docs/install) if you don't have it installed already.
 After that you can run `yarn run bootstrap` to install all the needed dependencies.
 
-From there you can:
+From there you can:--
 
 - Run the tests once with `yarn test` (Or run them in watch mode with `yarn run tdd`).
 - Start a local copy of the docs site with `yarn start`
